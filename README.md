@@ -1,6 +1,13 @@
-# Predicción de precios de viviendas - House Prices: Advanced Regression Techniques
+# House Prices: Advanced Regression Techniques
 
 Este proyecto incluye un notebook donde se documentan todas las notas, conclusiones y pasos para llegar a ellas. Solo requiere importarlo a Kaggle, cambiar la ruta de los archivos CSV de Kaggle y ejecutar las celdas con "Run All".
+
+<li>
+  <a href="https://drive.google.com/file/d/1vX4dpHf1IHpTMu-NmAdeYmur39hY9dZD/view?usp=sharing">Demo video</a> |
+  <a href="https://drive.google.com/file/d/13AiQFjnqx9FuDH3NJKhKeNFf-IBIDDsg/view?usp=drive_link">Presentation</a> |
+  <a href="https://github.com/Ateibuzena/House_Prices-Advanced_Regression_Techniques">GitHub Repository</a> |
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265406317832372224/">LinkedIn Post</a>
+</li>
 
 ---
 
